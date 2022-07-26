@@ -11,7 +11,7 @@ This project will definitely have version 2.0 where I may incorporate some compl
 
 Absolutely loved every process, pain and learning it took me to build
 
-Its a simple basic dashbooard that lets you add a user, update and delete a user...Lest I forget, I used JQuery too...read the documentation and I am surprised JavaScript swept JQuery off the radar...might investigate why its so.
+Its a simple basic dashboard that lets you add a user, update and delete a user...Lest I forget, I used JQuery too...read the documentation and I am surprised JavaScript swept JQuery off the radar...might investigate why its so.
 
 More Projects to complete and keep testing the limits of how far I can push this.
 
