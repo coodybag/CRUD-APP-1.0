@@ -9,10 +9,12 @@ Heard about Handlebars and Pug are better and easier to use logic with without s
 
 This project will definitely have version 2.0 where I may incorporate some complexities and REACT for the front end
 
-Absolutely loved every process, pain and learning it took me to build
+Absolutely loved every process, pain and learning it took me to build.
+
+Implemented the MVC structure and I quite find it very useful in structuring project and aese of maintaining the code...
 
 Its a simple basic dashboard that lets you add a user, update and delete a user...Lest I forget, I used JQuery too...read the documentation and I am surprised JavaScript swept JQuery off the radar...might investigate why its so.
 
 More Projects to complete and keep testing the limits of how far I can push this.
 
-The Developer Accountant...  :)
+The Developer Accountant... :)
